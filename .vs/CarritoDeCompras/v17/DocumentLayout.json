@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nelso\\Tecnicatura en Desarrollo de Software\\3er Cuatrimestre\\Desarrollo de Sistemas Orientado a Objetos\\Semana 5\\CarritoDeCompras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CA45FF-76DB-4400-A6E2-ECB05DFD9EC8}|CarritoDeCompras\\CarritoDeCompras.csproj|c:\\users\\nelso\\tecnicatura en desarrollo de software\\3er cuatrimestre\\desarrollo de sistemas orientado a objetos\\semana 5\\carritodecompras\\carritodecompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CA45FF-76DB-4400-A6E2-ECB05DFD9EC8}|CarritoDeCompras\\CarritoDeCompras.csproj|solutionrelative:carritodecompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CA45FF-76DB-4400-A6E2-ECB05DFD9EC8}|CarritoDeCompras\\CarritoDeCompras.csproj|c:\\users\\nelso\\tecnicatura en desarrollo de software\\3er cuatrimestre\\desarrollo de sistemas orientado a objetos\\semana 5\\carritodecompras\\carritodecompras\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CA45FF-76DB-4400-A6E2-ECB05DFD9EC8}|CarritoDeCompras\\CarritoDeCompras.csproj|solutionrelative:carritodecompras\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CA45FF-76DB-4400-A6E2-ECB05DFD9EC8}|CarritoDeCompras\\CarritoDeCompras.csproj|c:\\users\\nelso\\tecnicatura en desarrollo de software\\3er cuatrimestre\\desarrollo de sistemas orientado a objetos\\semana 5\\carritodecompras\\carritodecompras\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CA45FF-76DB-4400-A6E2-ECB05DFD9EC8}|CarritoDeCompras\\CarritoDeCompras.csproj|solutionrelative:carritodecompras\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CA45FF-76DB-4400-A6E2-ECB05DFD9EC8}|CarritoDeCompras\\CarritoDeCompras.csproj|c:\\users\\nelso\\tecnicatura en desarrollo de software\\3er cuatrimestre\\desarrollo de sistemas orientado a objetos\\semana 5\\carritodecompras\\carritodecompras\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CA45FF-76DB-4400-A6E2-ECB05DFD9EC8}|CarritoDeCompras\\CarritoDeCompras.csproj|solutionrelative:carritodecompras\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\Tecnicatura en Desarrollo de Software\\3er Cuatrimestre\\Desarrollo de Sistemas Orientado a Objetos\\Semana 5\\CarritoDeCompras\\CarritoDeCompras\\Producto.cs",
+              "RelativeDocumentMoniker": "CarritoDeCompras\\Producto.cs",
+              "ToolTip": "C:\\Users\\nelso\\Tecnicatura en Desarrollo de Software\\3er Cuatrimestre\\Desarrollo de Sistemas Orientado a Objetos\\Semana 5\\CarritoDeCompras\\CarritoDeCompras\\Producto.cs",
+              "RelativeToolTip": "CarritoDeCompras\\Producto.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T18:08:43.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\Tecnicatura en Desarrollo de Software\\3er Cuatrimestre\\Desarrollo de Sistemas Orientado a Objetos\\Semana 5\\CarritoDeCompras\\CarritoDeCompras\\Carrito.cs",
+              "RelativeDocumentMoniker": "CarritoDeCompras\\Carrito.cs",
+              "ToolTip": "C:\\Users\\nelso\\Tecnicatura en Desarrollo de Software\\3er Cuatrimestre\\Desarrollo de Sistemas Orientado a Objetos\\Semana 5\\CarritoDeCompras\\CarritoDeCompras\\Carrito.cs",
+              "RelativeToolTip": "CarritoDeCompras\\Carrito.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T18:01:45.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\Tecnicatura en Desarrollo de Software\\3er Cuatrimestre\\Desarrollo de Sistemas Orientado a Objetos\\Semana 5\\CarritoDeCompras\\CarritoDeCompras\\Sistema.cs",
+              "RelativeDocumentMoniker": "CarritoDeCompras\\Sistema.cs",
+              "ToolTip": "C:\\Users\\nelso\\Tecnicatura en Desarrollo de Software\\3er Cuatrimestre\\Desarrollo de Sistemas Orientado a Objetos\\Semana 5\\CarritoDeCompras\\CarritoDeCompras\\Sistema.cs",
+              "RelativeToolTip": "CarritoDeCompras\\Sistema.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwHEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T17:56:04.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\Tecnicatura en Desarrollo de Software\\3er Cuatrimestre\\Desarrollo de Sistemas Orientado a Objetos\\Semana 5\\CarritoDeCompras\\CarritoDeCompras\\Program.cs",
+              "RelativeDocumentMoniker": "CarritoDeCompras\\Program.cs",
+              "ToolTip": "C:\\Users\\nelso\\Tecnicatura en Desarrollo de Software\\3er Cuatrimestre\\Desarrollo de Sistemas Orientado a Objetos\\Semana 5\\CarritoDeCompras\\CarritoDeCompras\\Program.cs",
+              "RelativeToolTip": "CarritoDeCompras\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAADYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T17:53:13.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
