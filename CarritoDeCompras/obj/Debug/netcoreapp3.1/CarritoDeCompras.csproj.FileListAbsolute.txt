@@ -1,0 +1,13 @@
+C:\Users\nelso\Tecnicatura en Desarrollo de Software\3er Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Semana 5\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\Tecnicatura en Desarrollo de Software\3er Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Semana 5\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.AssemblyInfoInputs.cache
+C:\Users\nelso\Tecnicatura en Desarrollo de Software\3er Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Semana 5\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.AssemblyInfo.cs
+C:\Users\nelso\Tecnicatura en Desarrollo de Software\3er Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Semana 5\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\nelso\Tecnicatura en Desarrollo de Software\3er Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Semana 5\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.exe
+C:\Users\nelso\Tecnicatura en Desarrollo de Software\3er Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Semana 5\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.deps.json
+C:\Users\nelso\Tecnicatura en Desarrollo de Software\3er Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Semana 5\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.runtimeconfig.json
+C:\Users\nelso\Tecnicatura en Desarrollo de Software\3er Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Semana 5\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.runtimeconfig.dev.json
+C:\Users\nelso\Tecnicatura en Desarrollo de Software\3er Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Semana 5\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.dll
+C:\Users\nelso\Tecnicatura en Desarrollo de Software\3er Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Semana 5\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.1\CarritoDeCompras.pdb
+C:\Users\nelso\Tecnicatura en Desarrollo de Software\3er Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Semana 5\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.dll
+C:\Users\nelso\Tecnicatura en Desarrollo de Software\3er Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Semana 5\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.pdb
+C:\Users\nelso\Tecnicatura en Desarrollo de Software\3er Cuatrimestre\Desarrollo de Sistemas Orientado a Objetos\Semana 5\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.1\CarritoDeCompras.genruntimeconfig.cache
